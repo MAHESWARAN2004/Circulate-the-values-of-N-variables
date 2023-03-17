@@ -31,7 +31,8 @@ def circulate():
 ```
 
 ## Output:
-![circulate](s1.png)
+![cir2](https://user-images.githubusercontent.com/119478181/225814700-62046d63-4b02-4cea-a3ed-b8f0186ca4e9.png)
+
 
 ## Result:
 The above python program to circulate the n variables using function concept.
